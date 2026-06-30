@@ -1,0 +1,3 @@
+[submodule "kanban_backend"]
+	path = kanban_backend
+	url = https://github.com/CrispinTinho/join_backend.git
